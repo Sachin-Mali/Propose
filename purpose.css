@@ -6,6 +6,13 @@ body {
 
   background: linear-gradient(rgb(0, 249, 236), rgb(71, 150, 229));
 }
+.container {
+  text-align: center;
+}
+
+.message {
+  text-align: left;
+}
 
 #noButton {
   position: absolute;
